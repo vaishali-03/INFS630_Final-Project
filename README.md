@@ -15,9 +15,7 @@ For data preparation and cleaning, model building and accuracy assessment; we us
 Contributors-
 
 Name: Vaishali Mishra
-
 E-mail address: vaishali.mishra@mail.mcgill.ca
 
 Name: Priyadharshini Sakthivel
-
 E-mail address: priyadharshini.sakthivel@mail.mcgill.ca
